@@ -1,0 +1,17 @@
+
+1. **Basic Configuration for All Network Devices**  
+2. **Basic Interface Settings Configuration**  
+3. **VLAN Trunking Protocol (VTP) Configuration**  
+4. **EtherChannel Configuration using Port Aggregation Protocol (PAgP)**  
+5. **VLAN Setup and Configuration (Access Ports & Trunk Ports)**  
+6. **Access Layer Configuration**  
+7. **Switch Virtual Interface (SVI) Configuration for Inter-VLAN Routing**  
+8. **High Availability Configuration using Hot Standby Router Protocol (HSRP)**  
+9. **Interface Configuration between Network Devices**  
+10. **Routing Protocol Implementation (OSPF)**  
+11. **Static IP Address Assignment for Servers, Printers, and Wireless Access Points (APs)**  
+12. **DHCP Implementation and IP Address Planning Management**  
+13. **Implementation of Mail Services, Web Services, and FTP Services**  
+14. **Remote Access Configuration (SSH) and ACLs for IT Department-Only Device Access**  
+15. **DHCP Relay Agent Configuration**  
+16. **Communication Testing and Validation**
